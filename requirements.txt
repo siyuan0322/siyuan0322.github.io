@@ -4,7 +4,6 @@ decorator==4.3.0
 ecdsa==0.13
 enum34==1.1.6
 funcsigs==1.0.2
-functools32==3.2.3.post2
 futures==3.2.0
 gast==0.2.0
 html5lib==0.9999999
@@ -23,7 +22,6 @@ paramiko==1.16.0
 pbr==4.0.2
 pexpect==4.0.1
 plotly==2.5.1
-protobuf==3.5.2.post1
 ptyprocess==0.5
 pycrypto==2.6.1
 pycurl==7.43.0
