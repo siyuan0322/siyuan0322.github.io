@@ -1,5 +1,4 @@
 absl-py==0.1.13
-adium-theme-ubuntu==0.3.4
 astor==0.6.2
 astroid==1.4.4
 backports.weakref==1.0.post1
